@@ -80,6 +80,14 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "me.qiankanglai.loopscrollrect": {
+      "version": "file:D:/游戏开发资产/插件/LoopScrollRect",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
